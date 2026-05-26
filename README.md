@@ -14,3 +14,9 @@ AI-powered real-time language translation web application built using Flask and 
 - Flask
 - HTML/CSS/JavaScript
 - deep-translator
+  
+▶️ Run Project
+
+pip install flask deep-translator
+
+python app.py
